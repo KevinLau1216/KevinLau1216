@@ -8,8 +8,10 @@ Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Admin
 - Meeting different people 👯
 - Napping 💤
 - Fixing my sleep schedule (not writing this at 6am) 😴
+
 <br>
-### 📽️ Past Projects ###
+
+### 📽️ Past Projects: ###
 You can preview them at my own website -> https://kevinlau1216.github.io/ or try them out yourself here!!!
 - Connect 4 Online 🎯
 - Bee Simulator RPG 🐝
