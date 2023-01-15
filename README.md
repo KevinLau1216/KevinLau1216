@@ -6,7 +6,7 @@ Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Admin
 
 
 Feel free to contact me at:
-![picture alt](https://th.bing.com/th/id/R.6f9a03bd4554e5454de1c79f4c91aadf?rik=0c%2fLPEw2uBblNg&pid=ImgRaw&r=0 "Linkedin Icon")
+![picture alt]([https://th.bing.com/th/id/R.6f9a03bd4554e5454de1c79f4c91aadf?rik=0c%2fLPEw2uBblNg&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.1c4791e8cf53af69222c4a11ec70081a?rik=yvU4Tv2ttCqrOw&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f07%2fLinkedin-PNG-Picture-180x180.png&ehk=%2f56pNrb2wjunS9a9wapsoex7N3ggG8ALrAn6xB9yOTs%3d&risl=&pid=ImgRaw&r=0) "Linkedin Icon")
 
 <!--
 **KevinLau1216/KevinLau1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
