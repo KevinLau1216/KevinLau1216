@@ -2,20 +2,20 @@
 
 Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Administration 📈 student at the University of Waterloo! I love coding and take GREAT pride in my projects!!!
 
-🤪 ### Interests / Hobbies: ###
+### 🤪 Interests / Hobbies: ###
 - Swimming (not very fast tho) 🏊‍♂️
 - Puzzle Solving 🧩
 - Meeting different people 👯
 - Napping 💤
 - Fixing my sleep schedule (not writing this at 6am) 😴
-
-### Past Projects ###
+<br>
+### 📽️ Past Projects ###
 You can preview them at my own website -> https://kevinlau1216.github.io/ or try them out yourself here!!!
 - Connect 4 Online 🎯
 - Bee Simulator RPG 🐝
 - Pong & Atari 🕹️
 - Cosine Law Assistant 🧮
-
+<br>
 I am currently looking for a software engineering summer 2023 internship, so if you're interested, feel free to contact me (info below)!!!
 
 ### You can find me on 🔎: ###
