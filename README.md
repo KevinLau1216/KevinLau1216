@@ -8,7 +8,6 @@ Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Admin
 - Meeting different people 👯
 - Napping 💤
 - Fixing my sleep schedule (not writing this at 6am) 😴
-
 <br>
 
 ### 📽️ Past Projects: ###
