@@ -1,4 +1,4 @@
-# What does the html dog 🐕 bark??? href href! #
+# What does the 🐕 html dog bark??? href href! #
 
 Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Administration 📈 student at the University of Waterloo! I love coding and take GREAT pride in my projects!!!<br>
 
@@ -15,7 +15,7 @@ You can preview them at my own website -> https://kevinlau1216.github.io/ or try
 - Bee Simulator RPG 🐝
 - Pong & Atari 🕹️
 - Cosine Law Assistant 🧮
-<br>
+
 I am currently looking for a software engineering summer 2023 internship, so if you're interested, feel free to contact me (info below)!!!
 
 ### You can find me on 🔎: ###
