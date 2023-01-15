@@ -1,6 +1,6 @@
 # What does the html dog 🐕 bark??? href href! #
 
-Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Administration 📈 student at the University of Waterloo! I love coding and take GREAT pride in my projects!!!
+Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Administration 📈 student at the University of Waterloo! I love coding and take GREAT pride in my projects!!!<br>
 
 ### 🤪 Interests / Hobbies: ###
 - Swimming (not very fast tho) 🏊‍♂️
@@ -8,7 +8,6 @@ Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Admin
 - Meeting different people 👯
 - Napping 💤
 - Fixing my sleep schedule (not writing this at 6am) 😴
-<br>
 
 ### 📽️ Past Projects: ###
 You can preview them at my own website -> https://kevinlau1216.github.io/ or try them out yourself here!!!
@@ -20,9 +19,9 @@ You can preview them at my own website -> https://kevinlau1216.github.io/ or try
 I am currently looking for a software engineering summer 2023 internship, so if you're interested, feel free to contact me (info below)!!!
 
 ### You can find me on 🔎: ###
--**Linked-In:** https://www.linkedin.com/in/kevin-lau/
--**Email:** kkmlau@uwaterloo.ca
--**Website:** https://kevinlau1216.github.io/
+- **Linked-In:** https://www.linkedin.com/in/kevin-lau/
+- **Email:** kkmlau@uwaterloo.ca
+- **Website:** https://kevinlau1216.github.io/
 
 <!--
 **KevinLau1216/KevinLau1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
