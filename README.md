@@ -21,7 +21,7 @@ I am currently looking for a software engineering summer 2023 internship, so if 
 ### You can find me on 🔎: ###
 - **Linked-In:** https://www.linkedin.com/in/kevin-lau/
 - **Email:** kkmlau@uwaterloo.ca
-- **Website:** https://kevinlau1216.github.io/
+- **Website:** https://kevin-klau.github.io/
 
 <!--
 **KevinLau1216/KevinLau1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
