@@ -10,7 +10,7 @@
 - Fixing my sleep schedule (not writing this at 6am) 😴
 
 ### 📽️ Past Projects: ###
-You can preview them at my own website -> https://kevinlau1216.github.io/ or try them out yourself here!!!
+You can preview them at my own website -> https://kevin-klau.github.io/ or try them out yourself here!!!
 - Connect 4 Online 🎯
 - Bee Simulator RPG 🐝
 - Pong & Atari 🕹️
