@@ -11,6 +11,7 @@
 
 ### 📽️ Past Projects: ###
 You can preview them at my own website -> https://kevin-klau.github.io/ or try them out yourself here!!!
+- TwitterCow 🐄
 - Connect 4 Online 🎯
 - Bee Simulator RPG 🐝
 - Pong & Atari 🕹️
