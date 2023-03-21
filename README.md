@@ -12,6 +12,7 @@
 ### 📽️ Past Projects: ###
 You can preview them at my own website -> https://kevin-klau.github.io/ or try them out yourself here!!!
 - [UW Course Tracker](https://kevin-klau.github.io/UW-Course-Tracker/) (Work in Progress) - View the hardest or most useful courses you can take in Waterloo!
+- [Nourish Now](https://kevin-klau.github.io/nourishNow/) - View the food scarcity in each US state and a recipe generator!
 - TwitterCow 🐄 - A website that displays the most trending locations based on the user's preferences
 - Connect 4 Online 🎯 - A program that allows 2 users to play Connect 4 on a local network with extra theming!
 - Bee Simulator RPG 🐝 - Play as a bee to help defeat enemies and survive!
