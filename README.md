@@ -1,6 +1,6 @@
 # What does the 🐕 html dog bark??? href href! #
 
-Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Administration 📈 student at the University of Waterloo! I love coding and I love making new and interesting projects!!!<br>
+Hi! I'm Kevin Lau, and I'm a first year Computer Science 💻 and Business Administration 📈 student (about to be second) at the University of Waterloo! I love coding and I love making new and interesting projects!!!<br>
 
 ### 🤪 Interests / Hobbies: ###
 - Swimming (not very fast tho) 🏊‍♂️
