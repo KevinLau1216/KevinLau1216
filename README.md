@@ -13,7 +13,7 @@ Hi! I'm Kevin Lau, and I'm a second year Computer Science 💻 and Business Admi
 You can preview them at my own website -> https://kevin-klau.github.io/ or try them out yourself here!!!
 - [UW Course Tracker](https://uw-course-tracker.netlify.app/) (Work in Progress) - View the hardest or most useful courses you can take in Waterloo!
 - LIFE180 - A habit tracker and developer, that fines you in Ethereum if you lose!!!
-- MailReact - An automatic emailing system that personalizes emails to each recipient!
+- MailReach - An automatic emailing system that personalizes emails to each recipient!
 - [Nourish Now](https://kevin-klau.github.io/nourishNow/) - View the food scarcity in each US state and a recipe generator!
 - TwitterCow 🐄 - A website that displays the most trending locations based on the user's preferences
 - Connect 4 Online 🎯 - A program that allows 2 users to play Connect 4 on a local network with extra theming!
