@@ -21,7 +21,7 @@ You can preview them at my own website -> https://kevin-klau.github.io/ or try t
 - Pong & Atari 🕹️ - Play classic Pong & Atari with extra powerups and surprises!
 - Cosine Law Assistant 🧮 - A program that can help train your application of the cosine law!
 
-I am currently looking for a software engineering winter 2024 internship, so if you're interested, feel free to contact me (info below)!!!
+I am currently looking for a software engineering winter 2025 internship, so if you're interested, feel free to contact me (info below)!!!
 
 ### You can find me on 🔎: ###
 - **Linked-In:** https://www.linkedin.com/in/kevin-lau/
