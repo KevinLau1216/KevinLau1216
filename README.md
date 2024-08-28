@@ -10,7 +10,7 @@ Hi! I'm Kevin Lau, and I'm a third year Computer Science 💻 and Business Admin
 - Fixing my sleep schedule (not writing this at 6am) 😴
 
 ### 📽️ Past Projects: ###
-You can preview them at my own website -> https://kevin-klau.github.io/ or try them out yourself here!!!
+You can preview them at my own website (not updated) -> https://kevin-klau.github.io/ or try them out yourself here!!!
 - [UW Course Tracker](https://uw-course-tracker.netlify.app/) (Work in Progress) - View the hardest or most useful courses you can take in Waterloo!
 - LIFE180 - A habit tracker and developer, that fines you in Ethereum if you lose!!!
 - MailReach - An automatic emailing system that personalizes emails to each recipient!
